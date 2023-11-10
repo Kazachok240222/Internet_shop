@@ -1,0 +1,77 @@
+.zag {
+    display: flex;
+    width: 440px;
+    height: 40px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #121212;
+    font-family: Arial;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 87.305%;
+}
+
+.ChatButton {
+    width: 72px;
+    height: 72px;
+    flex-shrink: 0;
+    border: 0px;
+    border-radius: 50%;
+    background-color: #514A7E;
+
+}
+
+.Up {
+    background-color: transparent;
+    border: 0px;
+
+}
+
+.Why .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.content div {
+    margin-bottom: 10px;
+}
+
+.content p {
+    margin: 0;
+    align-self: flex-start;
+}
+
+.p1 {
+    display: flex;
+    width: 175px;
+    height: 26px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #7D7D7D;
+    font-family: Arial;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 118%;
+
+}
+
+.Why .p2 {
+    display: flex;
+    width: 175px;
+    height: 26px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #7D7D7D;
+    font-family: Arial;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 118%;
+    margin-top: 98px
+}

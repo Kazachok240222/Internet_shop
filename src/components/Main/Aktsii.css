@@ -1,0 +1,146 @@
+.Aktsii {
+  display: flex;
+  flex-direction: column;
+}
+
+.prices {
+  display: flex;
+}
+
+.description,
+.actions {
+  display: flex;
+}
+
+.stars {
+  display: flex;
+  justify-content: center;
+
+}
+
+.price-old {
+  margin-left: 23px;
+  display: flex;
+  width: 40px;
+  height: 9px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #7D7D7D;
+
+  font-family: Arial;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.price-new {
+  display: flex;
+  width: 49px;
+  height: 9px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #121212;
+
+  font-family: Arial;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.podrobnee {
+  width: 148px;
+  height: 37px;
+  flex-shrink: 0;
+  border: 0.5px solid #514A7E;
+  background-color: #FFFDF5;
+  color: #514A7E;
+}
+
+.podrobnee:hover {
+
+  flex-shrink: 0;
+  border: 0.5px solid #FFFDF5;
+  background-color: #514A7E;
+  color: #FFFDF5;
+}
+
+.podrobnee .strelka {
+  margin-left: 8px;
+  color: #514A7E;
+}
+
+.like {
+  background-color: transparent;
+  border: 0px;
+  margin-left: 100px
+}
+
+.korsina {
+  background-color: transparent;
+  border: 0px;
+}
+
+.Uspey {
+  display: flex;
+  width: 401px;
+  height: 31px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #121212;
+
+  font-family: Arial;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 87.305%;
+}
+
+.aktsii {
+  display: flex;
+  width: 103px;
+  height: 31px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #514A7E;
+  font-family: Bad Script;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 87.305%;
+  margin-left: 245px;
+  margin-bottom: 60px
+}
+
+
+.ava {
+  width: 278px;
+  height: 319px;
+  flex-shrink: 0;
+  margin-right: 20px;
+}
+
+.niz {
+  display: flex;
+  align-items: center;
+}
+
+.stars {
+  margin-left: 100px;
+}
+
+
+.Aktsii .content {
+  display: flex;
+  align-items: center;
+
+}
+
+.aksia {
+  margin-right: 80px
+}

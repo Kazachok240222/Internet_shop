@@ -1,0 +1,27 @@
+
+.header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.menu {
+  width: 36px;
+  height: 36px;
+  order: 1;
+}
+
+.search {
+  width: 308px;
+  order: 3;
+}
+
+.button {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  order: 2;
+  background-color: transparent;
+  border: 0px;
+}
+

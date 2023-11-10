@@ -1,0 +1,93 @@
+.Account {
+    width: 211px;
+height: 381px;
+flex-shrink: 0;
+background: #FFFDF5;
+box-shadow: 0px 4px 20px 0px rgba(51, 51, 51, 0.05);
+    margin-top: 18px;
+  margin-bottom: 27px;
+  margin-left: 24px;
+  margin-right: 51px;
+}
+
+.Account .avatar{
+    margin-left: 42px;
+    margin-top: 18px;
+}
+
+
+
+.Account .voyti .text{
+     color:#FFFDF5;
+}
+
+.Account .korsina{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  margin-left: 24px;
+}
+
+.kor{
+    border-bottom: 0.5px solid;
+    border-bottom-color: gray;
+}
+
+.part2{
+    border-bottom: 0.5px solid;
+    border-bottom-color: gray;
+}
+
+.part3{
+    border-bottom: 0.5px solid;
+    border-bottom-color: gray;
+    
+}
+
+
+
+.Account .isbr{
+    display: flex;
+    align-items: center;
+    margin-left: 24px;
+    margin-bottom: 26px
+}
+
+.Account .prosmotrennie{
+    display: flex;
+    align-items: center;
+    margin-left: 24px;
+}
+
+.Account .bonus{
+    display: flex;
+    align-items: center;
+    margin-left: 24px;
+}
+
+.Account .lich{
+    display: flex;
+    align-items: center;
+    margin-left: 24px;
+}
+
+.Account .history{
+    display: flex;
+    align-items: center;
+    margin-left: 24px;
+}
+
+.Account .exitbutton{
+    display: flex;
+    align-items: center;
+    margin-left: 24px;
+}
+
+.Account .img{
+    margin-right: 11px;
+}
+
+.Account .nick{
+    margin-left:72px;
+    margin-bottom:27px
+}

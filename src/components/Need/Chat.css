@@ -1,0 +1,99 @@
+.shapka {
+  display: flex;
+  align-items: center;
+}
+
+.Chat {
+  width: 332px;
+  height: 620px;
+  flex-shrink: 0;
+  background: #fffdf5;
+  box-shadow: 0px 4px 20px 0px rgba(51, 51, 51, 0.05);
+
+}
+
+.Chat {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  position: absolute;
+  top: 100%;
+  right: 10%;
+  bottom: 10%
+}
+
+.message {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.message.user {
+  align-self: flex-end;
+  background-color: #d3f7c6;
+
+}
+
+.message.consultant {
+  align-self: flex-start;
+  background-color: #c2e0f9;
+}
+
+.exit {
+  margin-left: 300px;
+  margin-top: 0px;
+}
+
+.message-input {
+  margin-top: 0px;
+  width: 344px;
+  height: 55px;
+  position: absolute;
+  bottom: 10px;
+  right: 10%;
+  right: 0px;
+  background-color: #fffdf5;
+  border: 0px;
+  border-top: 0.5px solid;
+  border-top-color: gray;
+
+}
+
+.Chat .ava {
+  width: 55px;
+  height: 55px;
+  flex-shrink: 0;
+}
+
+.Chat .chat-pole {
+  flex: 1;
+  overflow-y: auto;
+
+}
+
+.Chat {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-self: flex-end;
+  width: 352px;
+  height: 620px;
+  flex-shrink: 0;
+  background: #fffdf5;
+  box-shadow: 0px 4px 20px 0px rgba(51, 51, 51, 0.05);
+  position: fixed;
+  top: 810px;
+  right: 10%;
+  right: 0px;
+  overflow-y: auto;
+
+
+}
+
+.shapka {
+  display: flex;
+  align-items: center;
+  position: fixed;
+  border-bottom: 0.5px solid;
+  border-bottom-color: gray;
+}

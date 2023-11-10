@@ -1,0 +1,10 @@
+.App{
+  margin-top: 49px;
+  margin-bottom: 49px;
+  margin-left: 135px;
+  margin-right: 135px;
+}
+
+.App > * {
+  margin-bottom: 150px;
+}
